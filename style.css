@@ -129,9 +129,21 @@ ul.job-descryption li: before {
   content: "✔";
   padding-right: 0.5em;
   color: #509e98;
-  
+
 }
 
 footer {
   padding: 1em;
+  background-color: #cacdce;
+  text-align: right;
+}
+
+
+
+a{
+  color: #1C9C94;
+}
+
+a:hover {
+  opacity: 0.5;
 }
