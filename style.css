@@ -1,37 +1,53 @@
 /*@import url('https://fonts.googleapis.com/css?family=Raleway');*/
 
 body {
+  line-height: 1.8em;
+  font-size: 16px;
+  font-family: "raleway", sans-serif;
   margin: 0;
 }
 
 article {
-  padding:0 1em;
+  padding: 0 1em;
 }
 
-section{
+section {
   margin: 1em;
   padding: 1em;
 }
 
-header, main, footer {
+header,
+main,
+footer {
   margin: 0 auto;
 }
 
 header {
+  background: url(img/bg.jpg);
+  background-size: cover;
+  background-position: center;
   padding: 2em;
   text-align: center;
-  /*background-image: url('sciezka');*/
 }
 
 header section {
+  color: white;
   margin: 0 auto;
 }
 
 header img {
-
+  .circular 
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+    background: url(img/avatar.jpg) no-repeat;
+  
 }
 
 h1 {
+  color: white;
   margin: 1em 0;
 }
 
@@ -49,9 +65,9 @@ main {
 }
 
 .school span {
-  color: #A7B8BF;
+  color: #a7b8bf;
 }
 
 footer {
- padding: 1em;
+  padding: 1em;
 }
