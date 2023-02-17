@@ -25,7 +25,7 @@ footer {
 header {
   background: url(img/bg.jpg);
   background-size: cover;
-  background-position: center;
+  background-position: fixed;
   padding: 2em;
   text-align: center;
 }
