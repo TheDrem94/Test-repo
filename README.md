@@ -6,10 +6,12 @@ Podstawa projektu do pobrania. Pełen tutorial z opisem na blogu Fly Nerd: CV w 
 never done that before but i like the effect :)
 used software
 
--HTML
--CSS
+#-HTML
+#-CSS
 
-FontAwesome5
-favicon.io
+#FontAwesome5
+#favicon.io
+
+##Background image from pngtree.com
 
 [https://thedrem94.github.io/test-repo](https://thedrem94.github.io/Test-repo/)
